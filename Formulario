@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> Fragancias </title>
+</head>
+<body bgcolor="#FDFBFB"> 
+
+   
+<h1 style = "text-align: center;"> LA PREFERIDA </h1>
+
+<h2 style = "text-align: center; color : pink ;"> Fragancia del paraiso </h2>
+
+<p style = "text-align: center;"> <img src="C:\Users\JHONNY\Desktop\imagenes\gif.gif" width="500" height="300"> </p>   
+
+
+
+<p>
+<h3 style = "text-align: center;"> Encuentra las mejores colonias y fragancias "La preferida" te ofrecemos en nuestra sección de perfumería varias opciones nuestros productos son de calidad 
+Porque siempre es buen momento para estrenar una fragancia, Recuerda el perfume te sigue; te persigue y permanece detrás de ti.</h3>
+
+
+<h3 style =  " color :#DA7FAC ;">Realiza la compra de perfumes favoritos solamente llena tus datos y selecciona tu compra. </h3>
+
+<form>
+
+<p>
+<h2 style =  " color :#F76DB4 ;"> Perfumes </h2>
+<select>
+<option style ="background-color:pink;">Eau de parfum $60.00 </option>
+<option style ="background-color:pink;">Shalimar de Guerlain $55.50 </option>
+<option style ="background-color:pink;">Je t’aime Elixir $52.25 </option>
+<option style ="background-color:pink;">Rose de Grasse $61.15  </option>
+<option style ="background-color:pink;">CK One  $82.00  </option>
+</select>
+
+</p>
+
+
+  <label> Nombres </label>
+       <input type =text>
+  <label> Correo electronico </label>
+       <input type =text>
+
+
+
+
+
+
+<br>
+<b>
+<p> ¿Como quieres pagar?
+
+</b>
+<br>
+<br>
+ <label>
+    Tarjeta de credito o debito
+    <input type="checkbox" tabindex="1" class="focusNext">
+  </label>
+  <br>
+  <label>
+   Bizum
+    <input type="checkbox" tabindex="2" class="focusNext">
+  </label>
+  <br>
+  <label>
+    Otros
+    <input type="checkbox" tabindex="3" class="focusNext">
+  </label>
+  <br>
+
+
+<br>
+<b>
+Costo de envios
+</b>
+<p>
+<input type= "radio">Entrega Sabados $5,50
+<br>
+<input type= "radio">Entrega Domingo $4,50
+<p> 
+<br>
+
+           
+       <label> Direccion </label>
+       <input type =text>
+
+
+
+<br>
+<br>
+<button tabindex="4">Enviar</button>
+<button tabindex="4">Cancelar</button>
+
+</p>
+
+</form>
+</body>
+</html>
